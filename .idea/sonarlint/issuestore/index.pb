@@ -13,3 +13,5 @@ R
 "tests/contract-fulfillment.test.ts,d/b/db82ce22be981878063fd6d4f96e2aa6a096de6b
 R
 "contracts/vendor-registration.clar,d/1/d1f543cc98e944eff025411f376798ca94cfa674
+Q
+!tests/vendor-registration.test.ts,1/8/187ebf4f5774162a3c104ad69e84f08e7a72d32f
