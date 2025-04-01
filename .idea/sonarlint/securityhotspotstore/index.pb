@@ -11,3 +11,5 @@ S
 #contracts/contract-fulfillment.clar,1/7/177375562a6d57b6884312aea426091bac092716
 R
 "tests/contract-fulfillment.test.ts,d/b/db82ce22be981878063fd6d4f96e2aa6a096de6b
+R
+"contracts/vendor-registration.clar,d/1/d1f543cc98e944eff025411f376798ca94cfa674
